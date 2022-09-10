@@ -1,0 +1,7 @@
+.dataGrid {
+  padding: 10px;
+  width: 100%;
+}
+.dataGrid * {
+  text-align: left !important;
+}
